@@ -28,13 +28,13 @@ Following the preprocessing and cleaning phase we have a total of 532 tradable c
 
 #### 3D-Scatter plot with clusters
 
-This 3-D scatter plot was obtained using the PCA algorithm to reduce the crytocurrencies dimensions to three principal components.
+This 3-D scatter plot was obtained using the PCA algorithm to reduce the cryptocurrencies dimensions to three principal components.
 
 ![image](https://user-images.githubusercontent.com/83181834/132078639-7b0b380c-d722-4092-a29e-f81e7a5875f9.png)
 
 #### 2D-Scatter plot with clusters
 
-This 2-D scatter plot was obtained using the PCA algorithm to reduce the crytocurrencies dimensions to two principal components.
+This 2-D scatter plot was obtained using the PCA algorithm to reduce the cryptocurrencies dimensions to two principal components.
 
 ![image](https://user-images.githubusercontent.com/83181834/132078646-5a532141-8996-4883-9c33-12c962ce617e.png)
 
